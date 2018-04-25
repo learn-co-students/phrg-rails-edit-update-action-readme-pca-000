@@ -10,3 +10,4 @@ languages:
 type: 
   - readme
 resources: 0
+parent_template: git@github.com:learn-co-curriculum/rails-edit-update-action-readme.git
