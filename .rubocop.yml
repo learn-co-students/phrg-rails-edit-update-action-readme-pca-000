@@ -10,6 +10,8 @@ AllCops:
     - 'db/**/*'
     - 'config/**/*'
     - 'bin/*'
+    - 'Gemfile'
+    - 'Rakefile'
 
 Layout/AccessModifierIndentation:
   EnforcedStyle: outdent
